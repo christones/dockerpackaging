@@ -31,7 +31,8 @@ Initially the Python App runned with Flask on a loacalhost deployment.
 
  → sudo docker push myfirstdockerapppackaging/python-helloworld:v1.0.0 
  
- ![image1](screenshots/deployed.png)
- ![image2](screenshots/pakgaged.png)
+ ![image1](screenshots/packaged.png)
+ 
+
  
  
