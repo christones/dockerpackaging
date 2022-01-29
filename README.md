@@ -29,4 +29,8 @@ Initially the Python App runned with Flask on a loacalhost deployment.
  → sudo docker login --username=christones
   Password:**********    /* logging into my dockerhub account, where the repo myfirstdockerapppackaging was created */      
 
- → sudo docker push myfirstdockerapppackaging/python-helloworld:v1.0.0
+ → sudo docker push myfirstdockerapppackaging/python-helloworld:v1.0.0 
+ 
+ ![image](https://github.com/christones/dockerpackaging/issues/1)
+ 
+ 
